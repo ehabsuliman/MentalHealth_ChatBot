@@ -60,3 +60,15 @@ The project also includes an interactive demo deployed as a **Hugging Face Space
 ---
 
 ## 📂 Project Structure
+MentalHealth-ChatBot/
+│
+├── Data/ # Curated mental health dialogue datasets
+├── MentalHealth_ChatBot.ipynb
+├── README.md
+
+---
+
+## ⚠️ Disclaimer
+
+This chatbot is intended for **educational and research purposes only**.  
+It does not replace professional mental health care, diagnosis, or treatment.
